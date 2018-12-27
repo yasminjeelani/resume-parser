@@ -1,6 +1,6 @@
-resume_directory: ../data/input/example_resumes
-summary_output_directory: ../data/output
-data_schema_dir: ../data/schema
+resume_directory: ./data/input/example_resumes
+summary_output_directory: ./data/output
+data_schema_dir: ./data/schema
 
 extractors:
  experience:

@@ -10,3 +10,5 @@
 # Configuration files
 confs/*.yaml
 confs/*.yml
+package/
+function.zip

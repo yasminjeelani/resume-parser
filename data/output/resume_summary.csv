@@ -1,5 +1,5 @@
 index;file_path;extension;text;candidate_name;email;phone;universities;open-source;machinelearning;database;programming;experience;languages;platforms;hobbies
-0;../data/input/example_resumes/john_smith.docx;.docx;"John Smith 
+0;./data/input/example_resumes/john_smith.docx;.docx;"John Smith 
 
 
 
@@ -108,7 +108,7 @@ HONORS
 Summit County Alumni Association Scholarship					Spring 2014 - Present
 
 Dean’s List									Spring 2013 - Spring 2015";John Smith;sresume@kent.edu;(614, 555, 5555);{MIT};{};{};{SQL};{C, R};{Teacher, developer};{};{};{soccer}
-1;../data/input/example_resumes/SGresume-1.pdf;.pdf;"Sébastien Genty
+1;./data/input/example_resumes/SGresume-1.pdf;.pdf;"Sébastien Genty
 713-301-5648 • sgenty@me.com
 
 1209 Page St, Apt 7, San Francisco, CA 94117
@@ -198,7 +198,7 @@ games, solving problems and fixing
 things
 
 ";Sébastien Genty;sgenty@me.com;(713, 301, 5648);{};{};{tensorflow};{SQL};{C, java, python, JavaScript, R, Matlab};{developer};{German, Spanish, English};{};{reading}
-2;../data/input/example_resumes/resume_Meyer.pdf;.pdf;"MONICA MEYER
+2;./data/input/example_resumes/resume_Meyer.pdf;.pdf;"MONICA MEYER
 (415) · 497 · 7282  monica.meyer@comcast.net
 EDUCATION
 Master of Science in Analytics
@@ -258,7 +258,7 @@ XML, JSON, REST
 MySQL, PostgreSQL
 
 ";Queried Yelp;monica.meyer@comcast.net;;{};{};{};{SQL, Postgress, MySQL};{python, R, C, .NET};{};{};{};{}
-3;../data/input/example_resumes/Layla_Martin_Resume.pdf;.pdf;"Layla Martin
+3;./data/input/example_resumes/Layla_Martin_Resume.pdf;.pdf;"Layla Martin
 2038 McAllister St
 San Francisco, CA 94118
 layla.d.martin@gmail.com (520) 271-2492
@@ -335,7 +335,7 @@ NCAA Division I Women’s Soccer: USF, 2010-2014
 • Committed 30 hours per week to training, meetings, travel, competition.
 
 ";Layla Martin;layla.d.martin@gmail.com;(520, 271, 2492);{MIT};{};{};{SQL, Postgress, MySQL};{python, R, C, .NET, Matlab};{Teacher};{};{};{soccer}
-5;../data/input/example_resumes/Brendan_Herger_Resume.pdf;.pdf;"Brendan Herger
+5;./data/input/example_resumes/Brendan_Herger_Resume.pdf;.pdf;"Brendan Herger
 
 Hergertarian.com | 13herger@gmail.com | + 1 (415) 582-7457
 1209 Page Street No. 7 San Francisco, Ca 94117
